@@ -1,0 +1,6 @@
+.header { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #eee; z-index: 10; }
+.nav { max-width: 1100px; margin: 0 auto; padding: 0.8rem 1rem; display: flex; align-items: center; justify-content: space-between; }
+.brand { font-weight: 700; }
+.links { display: flex; gap: 1rem; }
+.links a { color: #333; }
+.links a:hover { text-decoration: underline; }
